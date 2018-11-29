@@ -1,0 +1,5 @@
+C:\Users\daniel.hunter\source\repos\FizzBuzz\FizzBuzzUnitTest\bin\Debug\netcoreapp2.1\FizzBuzzUnitTests.deps.json
+C:\Users\daniel.hunter\source\repos\FizzBuzz\FizzBuzzUnitTest\bin\Debug\netcoreapp2.1\FizzBuzzUnitTests.dll
+C:\Users\daniel.hunter\source\repos\FizzBuzz\FizzBuzzUnitTest\obj\Debug\netcoreapp2.1\FizzBuzzUnitTests.csproj.CoreCompileInputs.cache
+C:\Users\daniel.hunter\source\repos\FizzBuzz\FizzBuzzUnitTest\obj\Debug\netcoreapp2.1\FizzBuzzUnitTests.AssemblyInfoInputs.cache
+C:\Users\daniel.hunter\source\repos\FizzBuzz\FizzBuzzUnitTest\obj\Debug\netcoreapp2.1\FizzBuzzUnitTests.AssemblyInfo.cs
