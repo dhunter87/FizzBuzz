@@ -10,11 +10,7 @@ namespace FizzBuzz
     {
         public static string Get(int n)
         {
-            /*
-            string result = n.ToString(); ;
-            return result;
-            */
-            if (n % 5 == 0 && n % 5 == 0)
+            if (n % 5 == 0 && n % 3 == 0)
             {
                 return "FizzBuzz";
             }

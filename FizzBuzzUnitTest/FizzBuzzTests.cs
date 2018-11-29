@@ -9,8 +9,7 @@ namespace FizzBuzzUnitTests
         [Test]
         public void Test1()
         {
-            new FizzBuzzCalc();
-
+            var engine = new FizzBuzzCalc();
 
             string result = FizzBuzzCalc.Get(1);
 
@@ -22,36 +21,25 @@ namespace FizzBuzzUnitTests
         {
             var engine = new FizzBuzzCalc();
 
-            const int input = 2;
-            string output = FizzBuzzCalc.Get(input);
+            string output = FizzBuzzCalc.Get(3);
 
-            Assert.That(output, Is.EqualTo("2"));
+            Assert.That(output, Is.EqualTo("Fizz"));
         }
         [Test]
         public void Test3()
         {
             var engine = new FizzBuzzCalc();
 
-            const int input = 3;
-            string output = FizzBuzzCalc.Get(input);
+            string output = FizzBuzzCalc.Get(5);
 
-            Assert.That(output, Is.EqualTo("Fizz"));
+            Assert.That(output, Is.EqualTo("Buzz"));
         }
+        [Test]
         public void Test4()
         {
             var engine = new FizzBuzzCalc();
 
-            const int input = 5;
-            string output = FizzBuzzCalc.Get(input);
-
-            Assert.That(output, Is.EqualTo("Buzz"));
-        }
-        public void Test5()
-        {
-            var engine = new FizzBuzzCalc();
-
-            const int input = 15;
-            string output = FizzBuzzCalc.Get(input);
+            string output = FizzBuzzCalc.Get(15);
 
             Assert.That(output, Is.EqualTo("FizzBuzz"));
         }
