@@ -2,5 +2,16 @@
   <Settings>
     <AutoEnable>True</AutoEnable>
     <CurrentEngineMode>Run all tests automatically [Global]</CurrentEngineMode>
+    <StatusIndicatorSplitterDistance>42</StatusIndicatorSplitterDistance>
+    <TestListTreeLayout>
+      <Column>
+        <Name>TestFriendlyName</Name>
+        <Width>152</Width>
+      </Column>
+      <Column>
+        <Name>ExecutionTime</Name>
+        <Width>165</Width>
+      </Column>
+    </TestListTreeLayout>
   </Settings>
 </SolutionConfiguration>

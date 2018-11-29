@@ -3,3 +3,15 @@ C:\Users\daniel.hunter\source\repos\FizzBuzz\FizzBuzzUnitTest\bin\Debug\netcorea
 C:\Users\daniel.hunter\source\repos\FizzBuzz\FizzBuzzUnitTest\obj\Debug\netcoreapp2.1\FizzBuzzUnitTests.csproj.CoreCompileInputs.cache
 C:\Users\daniel.hunter\source\repos\FizzBuzz\FizzBuzzUnitTest\obj\Debug\netcoreapp2.1\FizzBuzzUnitTests.AssemblyInfoInputs.cache
 C:\Users\daniel.hunter\source\repos\FizzBuzz\FizzBuzzUnitTest\obj\Debug\netcoreapp2.1\FizzBuzzUnitTests.AssemblyInfo.cs
+C:\Users\daniel.hunter\Desktop\Projects\AsosProjects\FizzBuzz\FizzBuzzUnitTest\bin\Debug\netcoreapp2.1\FizzBuzzUnitTests.deps.json
+C:\Users\daniel.hunter\Desktop\Projects\AsosProjects\FizzBuzz\FizzBuzzUnitTest\bin\Debug\netcoreapp2.1\FizzBuzzUnitTests.dll
+C:\Users\daniel.hunter\Desktop\Projects\AsosProjects\FizzBuzz\FizzBuzzUnitTest\bin\Debug\netcoreapp2.1\FizzBuzzUnitTests.pdb
+C:\Users\daniel.hunter\Desktop\Projects\AsosProjects\FizzBuzz\FizzBuzzUnitTest\bin\Debug\netcoreapp2.1\FizzBuzz.dll
+C:\Users\daniel.hunter\Desktop\Projects\AsosProjects\FizzBuzz\FizzBuzzUnitTest\bin\Debug\netcoreapp2.1\FizzBuzz.pdb
+C:\Users\daniel.hunter\Desktop\Projects\AsosProjects\FizzBuzz\FizzBuzzUnitTest\obj\Debug\netcoreapp2.1\FizzBuzzUnitTests.csprojAssemblyReference.cache
+C:\Users\daniel.hunter\Desktop\Projects\AsosProjects\FizzBuzz\FizzBuzzUnitTest\obj\Debug\netcoreapp2.1\FizzBuzzUnitTests.csproj.CoreCompileInputs.cache
+C:\Users\daniel.hunter\Desktop\Projects\AsosProjects\FizzBuzz\FizzBuzzUnitTest\obj\Debug\netcoreapp2.1\FizzBuzzUnitTests.AssemblyInfoInputs.cache
+C:\Users\daniel.hunter\Desktop\Projects\AsosProjects\FizzBuzz\FizzBuzzUnitTest\obj\Debug\netcoreapp2.1\FizzBuzzUnitTests.AssemblyInfo.cs
+C:\Users\daniel.hunter\Desktop\Projects\AsosProjects\FizzBuzz\FizzBuzzUnitTest\obj\Debug\netcoreapp2.1\FizzBuzzUnitTests.csproj.CopyComplete
+C:\Users\daniel.hunter\Desktop\Projects\AsosProjects\FizzBuzz\FizzBuzzUnitTest\obj\Debug\netcoreapp2.1\FizzBuzzUnitTests.dll
+C:\Users\daniel.hunter\Desktop\Projects\AsosProjects\FizzBuzz\FizzBuzzUnitTest\obj\Debug\netcoreapp2.1\FizzBuzzUnitTests.pdb

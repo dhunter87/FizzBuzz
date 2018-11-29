@@ -1,8 +1,0 @@
-C:\Users\daniel.hunter\Desktop\Projects\AsosProjects\FizzBuzz\.vs\FizzBuzz\lut\0\b\FizzBuzzUnitTests\Debug\netcoreapp2.1\FizzBuzzUnitTests.deps.json
-C:\Users\daniel.hunter\Desktop\Projects\AsosProjects\FizzBuzz\.vs\FizzBuzz\lut\0\b\FizzBuzzUnitTests\Debug\netcoreapp2.1\FizzBuzzUnitTests.dll
-C:\Users\daniel.hunter\Desktop\Projects\AsosProjects\FizzBuzz\.vs\FizzBuzz\lut\0\i\FizzBuzzUnitTests\Debug\netcoreapp2.1\FizzBuzzUnitTests.csprojAssemblyReference.cache
-C:\Users\daniel.hunter\Desktop\Projects\AsosProjects\FizzBuzz\.vs\FizzBuzz\lut\0\i\FizzBuzzUnitTests\Debug\netcoreapp2.1\FizzBuzzUnitTests.csproj.CoreCompileInputs.cache
-C:\Users\daniel.hunter\Desktop\Projects\AsosProjects\FizzBuzz\.vs\FizzBuzz\lut\0\i\FizzBuzzUnitTests\Debug\netcoreapp2.1\FizzBuzzUnitTests.AssemblyInfoInputs.cache
-C:\Users\daniel.hunter\Desktop\Projects\AsosProjects\FizzBuzz\.vs\FizzBuzz\lut\0\i\FizzBuzzUnitTests\Debug\netcoreapp2.1\FizzBuzzUnitTests.AssemblyInfo.cs
-C:\Users\daniel.hunter\Desktop\Projects\AsosProjects\FizzBuzz\.vs\FizzBuzz\lut\0\i\FizzBuzzUnitTests\Debug\netcoreapp2.1\FizzBuzzUnitTests.csproj.CopyComplete
-C:\Users\daniel.hunter\Desktop\Projects\AsosProjects\FizzBuzz\.vs\FizzBuzz\lut\0\i\FizzBuzzUnitTests\Debug\netcoreapp2.1\FizzBuzzUnitTests.dll
