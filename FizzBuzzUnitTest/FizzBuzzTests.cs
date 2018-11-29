@@ -9,8 +9,6 @@ namespace FizzBuzzUnitTests
         [Test]
         public void StringTest()
         {
-            var fizzBuzzCalc = new FizzBuzzCalc();
-
             string result = FizzBuzzCalc.Get(1);
 
             Assert.That(result, Is.EqualTo("1"));
@@ -19,7 +17,7 @@ namespace FizzBuzzUnitTests
         [Test]
         public void FizzTest()
         {
-            var fizzBuzzCalc = new FizzBuzzCalc();
+            FizzBuzzCalc fizzBuzzCalc;
 
             string output = FizzBuzzCalc.Get(3);
 
