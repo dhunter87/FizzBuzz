@@ -22,6 +22,10 @@ namespace FizzBuzz
             {
                 return "Buzz";
             }
+            else if (n % 5 == 0  && n % 5 == 0)
+            {
+                return "FizzBuzz";
+            }
             else
             {
                 return n.ToString();

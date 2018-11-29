@@ -1,0 +1,66 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.1",
+    "signature": "763cb84a8fd5af2de31b53079f2f991875ba737a"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.1": {
+      "FizzBuzzUnitTests/1.0.0": {
+        "dependencies": {
+          "FizzBuzz": "1.0.0",
+          "NUnit": "3.11.0",
+          "Microsoft.CodeAnalysis.LiveUnitTesting.Runtime": "1.9.0.0"
+        },
+        "runtime": {
+          "FizzBuzzUnitTests.dll": {}
+        }
+      },
+      "NUnit/3.11.0": {
+        "runtime": {
+          "lib/netstandard2.0/nunit.framework.dll": {
+            "assemblyVersion": "3.11.0.0",
+            "fileVersion": "3.11.0.0"
+          }
+        }
+      },
+      "FizzBuzz/1.0.0": {
+        "runtime": {
+          "FizzBuzz.dll": {}
+        }
+      },
+      "Microsoft.CodeAnalysis.LiveUnitTesting.Runtime/1.9.0.0": {
+        "runtime": {
+          "Microsoft.CodeAnalysis.LiveUnitTesting.Runtime.dll": {
+            "assemblyVersion": "1.9.0.0",
+            "fileVersion": "1.9.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "FizzBuzzUnitTests/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "NUnit/3.11.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-BzGk+u02RCrysmLlSzD+okxzMQ8JRF4eFC/qijDJ8Y/FBdTrTkxkQyTFsYkG1o++pr7QpFAE4VDXDqIfZ/gBAg==",
+      "path": "nunit/3.11.0",
+      "hashPath": "nunit.3.11.0.nupkg.sha512"
+    },
+    "FizzBuzz/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Microsoft.CodeAnalysis.LiveUnitTesting.Runtime/1.9.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

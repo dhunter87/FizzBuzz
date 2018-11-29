@@ -1,0 +1,5 @@
+C:\Users\daniel.hunter\Desktop\Projects\AsosProjects\FizzBuzz\.vs\FizzBuzz\lut\0\b\FizzBuzz\bin\Debug\FizzBuzz.dll
+C:\Users\daniel.hunter\Desktop\Projects\AsosProjects\FizzBuzz\.vs\FizzBuzz\lut\0\i\FizzBuzz\Debug\FizzBuzz.csprojAssemblyReference.cache
+C:\Users\daniel.hunter\Desktop\Projects\AsosProjects\FizzBuzz\.vs\FizzBuzz\lut\0\i\FizzBuzz\Debug\FizzBuzz.csproj.CoreCompileInputs.cache
+C:\Users\daniel.hunter\Desktop\Projects\AsosProjects\FizzBuzz\.vs\FizzBuzz\lut\0\i\FizzBuzz\Debug\FizzBuzz.csproj.CopyComplete
+C:\Users\daniel.hunter\Desktop\Projects\AsosProjects\FizzBuzz\.vs\FizzBuzz\lut\0\i\FizzBuzz\Debug\FizzBuzz.dll

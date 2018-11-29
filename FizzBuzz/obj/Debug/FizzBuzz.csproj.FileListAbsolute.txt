@@ -1,0 +1,6 @@
+C:\Users\daniel.hunter\Desktop\Projects\AsosProjects\FizzBuzz\FizzBuzz\bin\Debug\FizzBuzz.dll
+C:\Users\daniel.hunter\Desktop\Projects\AsosProjects\FizzBuzz\FizzBuzz\bin\Debug\FizzBuzz.pdb
+C:\Users\daniel.hunter\Desktop\Projects\AsosProjects\FizzBuzz\FizzBuzz\obj\Debug\FizzBuzz.csprojAssemblyReference.cache
+C:\Users\daniel.hunter\Desktop\Projects\AsosProjects\FizzBuzz\FizzBuzz\obj\Debug\FizzBuzz.csproj.CoreCompileInputs.cache
+C:\Users\daniel.hunter\Desktop\Projects\AsosProjects\FizzBuzz\FizzBuzz\obj\Debug\FizzBuzz.dll
+C:\Users\daniel.hunter\Desktop\Projects\AsosProjects\FizzBuzz\FizzBuzz\obj\Debug\FizzBuzz.pdb
