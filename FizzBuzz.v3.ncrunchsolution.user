@@ -2,7 +2,7 @@
   <Settings>
     <AutoEnable>True</AutoEnable>
     <CurrentEngineMode>Run all tests automatically [Global]</CurrentEngineMode>
-    <StatusIndicatorSplitterDistance>42</StatusIndicatorSplitterDistance>
+    <StatusIndicatorSplitterDistance>35</StatusIndicatorSplitterDistance>
     <TestListTreeLayout>
       <Column>
         <Name>TestFriendlyName</Name>

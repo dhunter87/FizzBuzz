@@ -7,9 +7,9 @@ namespace FizzBuzzUnitTests
     public class FizzBuzzTests
     {
         [Test]
-        public void Test1()
+        public void StringTest()
         {
-            var engine = new FizzBuzzCalc();
+            var fizzBuzzCalc = new FizzBuzzCalc();
 
             string result = FizzBuzzCalc.Get(1);
 
@@ -17,31 +17,42 @@ namespace FizzBuzzUnitTests
         }
 
         [Test]
-        public void Test2()
+        public void FizzTest()
         {
-            var engine = new FizzBuzzCalc();
+            var fizzBuzzCalc = new FizzBuzzCalc();
 
             string output = FizzBuzzCalc.Get(3);
 
             Assert.That(output, Is.EqualTo("Fizz"));
         }
         [Test]
-        public void Test3()
+        public void BuzzTest()
         {
-            var engine = new FizzBuzzCalc();
+            var fizzBuzzCalc = new FizzBuzzCalc();
 
             string output = FizzBuzzCalc.Get(5);
 
             Assert.That(output, Is.EqualTo("Buzz"));
         }
         [Test]
-        public void Test4()
+        public void FizzBuzzTest()
         {
-            var engine = new FizzBuzzCalc();
+            var fizzBuzzCalc = new FizzBuzzCalc();
 
             string output = FizzBuzzCalc.Get(15);
 
             Assert.That(output, Is.EqualTo("FizzBuzz"));
         }
+        /*
+        [Test]
+        public void negativeNumberTest()
+        {
+            var FizzBuzzCalc = new FizzBuzzCalc();
+
+            string output = FizzBuzzCalc.Get(-15);
+
+            Assert.That(output, Is.EqualTo("error"));
+        }
+        */
     }
 }
